@@ -8,3 +8,5 @@ git checkout -- filename//reset the working directory file after the last git ad
 
 git reset HEAD filename //reset the staged directory file after the last git add  
 git reset --mixed HEAD^ 
+
+new git branch dev
