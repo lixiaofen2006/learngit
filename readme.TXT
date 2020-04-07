@@ -12,4 +12,4 @@ git reset --mixed HEAD^
 new git branch dev
 
 new git branch dev2
-switch to master,then write this in readme.TXT
+switch to master,then merge this in readme.TXT 
