@@ -10,3 +10,5 @@ git reset HEAD filename //reset the staged directory file after the last git add
 git reset --mixed HEAD^ 
 
 new git branch dev
+
+new git branch dev2
